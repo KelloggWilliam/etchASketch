@@ -1,0 +1,10 @@
+.cont {
+    display: flex;
+    width: 400px;
+    flex-wrap: wrap;
+    background-color: grey;
+}
+.item {
+    box-sizing: border-box;
+
+}
